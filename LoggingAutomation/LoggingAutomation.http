@@ -1,0 +1,6 @@
+@LoggingAutomation_HostAddress = http://localhost:5225
+
+GET {{LoggingAutomation_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
